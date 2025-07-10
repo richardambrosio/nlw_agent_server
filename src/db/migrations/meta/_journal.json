@@ -8,6 +8,13 @@
       "when": 1751986774780,
       "tag": "0000_mixed_wild_pack",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752163781751,
+      "tag": "0001_steep_terror",
+      "breakpoints": true
     }
   ]
 }
